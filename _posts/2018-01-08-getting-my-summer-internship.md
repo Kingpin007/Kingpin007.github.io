@@ -19,6 +19,7 @@ tags:
   - Summer Internship
   - Walmart labs
 ---
+
 It has been a long time since my last blog post and frankly, my laziness is to blame for it.
   
 On 4th September, 2017 Walmart Labs came to my college campus for summer interships. They offered a total of 5 positions and I was among the lucky 5.

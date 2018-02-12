@@ -45,28 +45,28 @@ Before I go on to list and describe the options, I think it is important for me 
 
 Now as you can see my requirements were pretty well defined, I knew exactly what I was looking for in an editor and this helped me narrow down my choices.
 
-  1. ### [Atom](https://atom.io/)
-    
-    <img src="https://i0.wp.com/flight-manual.atom.io/getting-started/images/linux-downloads.png?w=525&#038;ssl=1" data-recalc-dims="1" />This editor met all of my requirements which were listed above. Atom excels in git integration especially with GitHub. This is to be expected since Atom is developed by GitHub.
-  
-    Atom looks very pretty and is in my opinion one of the best editors for web-development. Atom is generally fast if your system is fast enough. Atom runs on Chromium, i.e. Atom is essentially a chrome browser customized for editing files so it is quite resource intensive. For a super fluid experience I would recommend at least 4GB RAM with a decent CPU (dual core).
-  
-    My primary use was to run C++ and Python applications and Atom sadly does not provide enough debugging support and C++ library features for me to consider it as my primary editor. Moreover Atom becomes sluggish over time taking quite some time to start up.</li> 
-    
-      * ### [Visual Studio Code](https://code.visualstudio.com/)
-        
-        ### <img src="https://i2.wp.com/code.visualstudio.com/opengraphimg/opengraph-home.png?w=525" data-recalc-dims="1" />
-        
-        As I was searching online for an editor suited to my choices I was quite surprised to see that Microsoft has launched an _Open Source_ editor called Visual Studio Code. Amazingly this program is not Windows exclusive but is cross-platform. It works on WIndows, Linux and MacOS.
-  
-        Once the initial shock was over, I realized that this application was targeted towards web developers just like Atom and lacks proper support for C++ and Python dubugging. And runnning a single program on this editor requires creating 2 different files for each file _launch.json_ and _tasks.json_ which defeats the very purpose of running my programs quickly.</li> 
-        
-          * ### [Sublime Text 3](https://www.sublimetext.com/3)</ol> 
-        
-        <img src="https://i2.wp.com/www.storybench.org/wp-content/uploads/2016/01/synthigh.png?w=525" data-recalc-dims="1" />
-        
-        Arguably the most mature text editor out there. It has great support for C++ and Python built in and has the ability to create custom build tasks which are independent of the projects which is really nice. Finding information online about this editor is quite easy as it has been around for quite some time and any issue you may encounter probably has a solution in stack overflow.
-  
-        The editor looks beautiful, it has tons of plugins and themes and is extremely fast. It loads up much faster than Atom or Visual Studio Code.
-  
-        Sublime Text 3 is arguably the fastest most lightweight feature rich cross-platform editor out there and would recommend anyone who is looking to switch to a single editor to switch to Sublime Text.
+* ### [Atom](https://atom.io/)
+
+<img src="https://i0.wp.com/flight-manual.atom.io/getting-started/images/linux-downloads.png?w=525&#038;ssl=1" data-recalc-dims="1" />This editor met all of my requirements which were listed above. Atom excels in git integration especially with GitHub. This is to be expected since Atom is developed by GitHub.
+
+Atom looks very pretty and is in my opinion one of the best editors for web-development. Atom is generally fast if your system is fast enough. Atom runs on Chromium, i.e. Atom is essentially a chrome browser customized for editing files so it is quite resource intensive. For a super fluid experience I would recommend at least 4GB RAM with a decent CPU (dual core).
+
+My primary use was to run C++ and Python applications and Atom sadly does not provide enough debugging support and C++ library features for me to consider it as my primary editor. Moreover Atom becomes sluggish over time taking quite some time to start up. 
+
+* ### [Visual Studio Code](https://code.visualstudio.com/)
+
+### <img src="https://i2.wp.com/code.visualstudio.com/opengraphimg/opengraph-home.png?w=525" data-recalc-dims="1" />
+
+As I was searching online for an editor suited to my choices I was quite surprised to see that Microsoft has launched an _Open Source_ editor called Visual Studio Code. Amazingly this program is not Windows exclusive but is cross-platform. It works on WIndows, Linux and MacOS.
+
+Once the initial shock was over, I realized that this application was targeted towards web developers just like Atom and lacks proper support for C++ and Python dubugging. And runnning a single program on this editor requires creating 2 different files for each file _launch.json_ and _tasks.json_ which defeats the very purpose of running my programs quickly.
+
+* ### [Sublime Text 3](https://www.sublimetext.com/3)
+
+<img src="https://i2.wp.com/www.storybench.org/wp-content/uploads/2016/01/synthigh.png?w=525" data-recalc-dims="1" />
+
+Arguably the most mature text editor out there. It has great support for C++ and Python built in and has the ability to create custom build tasks which are independent of the projects which is really nice. Finding information online about this editor is quite easy as it has been around for quite some time and any issue you may encounter probably has a solution in stack overflow.
+
+The editor looks beautiful, it has tons of plugins and themes and is extremely fast. It loads up much faster than Atom or Visual Studio Code.
+
+Sublime Text 3 is arguably the fastest most lightweight feature rich cross-platform editor out there and would recommend anyone who is looking to switch to a single editor to switch to Sublime Text.

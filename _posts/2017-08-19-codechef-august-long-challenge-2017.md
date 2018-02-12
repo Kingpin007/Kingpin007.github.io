@@ -17,24 +17,20 @@ tags:
   - Programming
   - Solutions
 ---
-# [Chef and Rainbow Array](https://www.codechef.com/AUG17/problems/RAINBOWA "Chef and Rainbow Array"){#ember354.ember-view}
+* # [Chef and Rainbow Array](https://www.codechef.com/AUG17/problems/RAINBOWA "Chef and Rainbow Array")
 
-<div class="gist-oembed" data-gist="Kingpin007/a5d960696ec1ea06f24f084b5b85bd43.json">
-</div>
+<script src="https://gist.github.com/Kingpin007/a5d960696ec1ea06f24f084b5b85bd43.js"></script>
 
-# [Chef and Mover](https://www.codechef.com/AUG17/problems/CHEFMOVR "Chef and Mover"){#ember371.ember-view}
+* # [Chef and Mover](https://www.codechef.com/AUG17/problems/CHEFMOVR "Chef and Mover")
 
-<div class="gist-oembed" data-gist="Kingpin007/6c48a63687186423aa30b8f953f00799.json">
-</div>
+<script src="https://gist.github.com/Kingpin007/6c48a63687186423aa30b8f953f00799.js"></script>
 
-# [Greedy Candidates](https://www.codechef.com/AUG17/problems/GCAC "Greedy Candidates"){#ember376.ember-view}
+* # [Greedy Candidates](https://www.codechef.com/AUG17/problems/GCAC "Greedy Candidates")
 
-<div class="gist-oembed" data-gist="Kingpin007/8f0372bf42c867b1a38a74447085e963.json">
-</div>
+<script src="https://gist.github.com/Kingpin007/8f0372bf42c867b1a38a74447085e963.js"></script>
 
-# [Palindromic Game](https://www.codechef.com/AUG17/problems/PALINGAM "Palindromic Game"){#ember381.ember-view}
+* # [Palindromic Game](https://www.codechef.com/AUG17/problems/PALINGAM "Palindromic Game")
 
-<div class="gist-oembed" data-gist="Kingpin007/832bc0892f0aea5566fa0b5be575594a.json">
-</div>
+<script src="https://gist.github.com/Kingpin007/832bc0892f0aea5566fa0b5be575594a.js"></script>
 
 The rest of the problem&#8217;s solutions will be published as soon as I am able to solve them.
