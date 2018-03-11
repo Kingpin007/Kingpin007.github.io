@@ -5,7 +5,7 @@ date: 2018-03-11T14:16:25+00:00
 author: Anirudh
 layout: post
 permalink: /migrating-to-jekyll/
-image: /wp-content/uploads/2017/03/jekyll.png
+image: /wp-content/uploads/2018/03/jekyll.png
 categories:
   - Personal
 tags:
